@@ -61,6 +61,7 @@ You can ask me about modern web technology.
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 
 **Non Technical**
+
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
@@ -70,7 +71,7 @@ You can ask me about modern web technology.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 ### How to reach me -
-![https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://www.facebook.com/hmaurya1999)
+![https://www.facebook.com/hmaurya1999](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![https://www.instagram.com/https.himanshu.in/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://www.linkedin.com/in/himanshu-maurya-59663020b/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://twitter.com/hmaurya_1999](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
@@ -81,5 +82,5 @@ You can ask me about modern web technology.
 
 
 **Activity**
-![Graph](https://github-readme-activity-graph.cyclic.app/graph?username={username}&theme=minimal)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue)
+![Graph](https://github-readme-activity-graph.cyclic.app/graph?username={mhimanshum}&theme=minimal)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={mhimanshum}&theme=vue)
