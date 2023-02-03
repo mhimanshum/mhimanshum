@@ -89,7 +89,7 @@ You can ask me about modern web technology.
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-=>> mauryahimanshu1999@gmail.com
+=>> https://gmail.com/mauryahimanshu1999@gmail.com
 
 ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
