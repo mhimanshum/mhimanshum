@@ -82,5 +82,5 @@ You can ask me about modern web technology.
 
 
 **Activity**
-![Graph](https://github-readme-activity-graph.cyclic.app/graph?username={mhimanshum}&theme=minimal)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={mhimanshum}&theme=vue)
+![Graph](https://github-readme-activity-graph.cyclic.app/graph?username={https://github.com/mhimanshum}&theme=minimal)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={https://github.com/mhimanshum}&theme=vue)
