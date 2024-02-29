@@ -144,7 +144,7 @@ You can ask me about modern web technology.
   *** 
 >  🔍 Search Engines 💪👉👉
 >  
-> ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white) ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white) ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Yahoo> !](https://img.shields.io/badge/Yahoo> !-6001D2?style=for-the-badge&logo=Yahoo> !&logoColor=white) ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white)  
+> ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white) ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white) ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Yahoo](https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=Yahoo&logoColor=white) ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white)  
 
   *** 
 >  🥅 Other 💪👉👉
