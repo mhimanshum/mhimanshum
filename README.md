@@ -16,7 +16,9 @@ You can ask me about modern web technology.**
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-##
+*** 
+---
+___
 
 ## 🎛️ Operating Systems 💪👉👉  
   
