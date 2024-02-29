@@ -1,10 +1,10 @@
-**Hi! My name is **Himanshu Maurya** by profession I am a Student, a Teacher as well as a Freelancer Software Developer. I enjoy creating things that live on internet. Internet and developing the websites is my passion and I believe in helping people with my abilities and knowledge base.
+Hi! My name is **Himanshu Maurya** by profession I am a Student, a Teacher as well as a Freelancer Software Developer. I enjoy creating things that live on internet. Internet and developing the websites is my passion and I believe in helping people with my abilities and knowledge base.
 
 I am currently learning the modern era of software technology.
 
 You can ask me about modern web technology.**
   
-## Technologies I Know And I Have Used 👉👉💪👉👉##
+## Technologies I Know And I Have Used 👉👉💪👉👉
   
 ##📋 Programming Languages 💪👉👉  
 
