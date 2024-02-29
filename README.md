@@ -5,7 +5,7 @@ I am currently learning the modern era of software technology.
 
 You can ask me about modern web technology.
   
-> [!NOTE] Technologies I Know And I Have Used 👉👉
+> ## Technologies I Know And I Have Used 👉👉
 
 ***
 *** 
