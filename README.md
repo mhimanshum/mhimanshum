@@ -7,7 +7,7 @@ You can ask me about modern web technology.
 ***
 
 > [!NOTE]
-> `#000000` Technologies I Know And I Have Used 👉👉
+> Technologies I Know And I Have Used 👉👉
 
 *** 
 >  📋 Programming Languages 💪👉👉
