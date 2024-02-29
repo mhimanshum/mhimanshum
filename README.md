@@ -1,10 +1,43 @@
 
-Hi, My name is **Himanshu Maurya** by profession I am a Student, a Teacher as well as a Freelancer Software Developer. I enjoy creating things that live on internet. Internet and developing the websites is my passion and I believe in helping people with my abilities and knowledge base.
+<a href="https://komarev.com/ghpvc/?username=mhimanshum">
+  <img align="right" src="https://komarev.com/ghpvc/?username=mhimanshum&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-I am currently learning the modern era of software technology.
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-You can ask me about modern web technology.
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><p target="_blank" href="#">Himanshu Maurya
+                </a></b>
+        </samp>
+</h3>
+<p align="center"> 
+  <samp>
+    <a href="#">「 Google Me 」</a>
+    <br>
+    「 I am a full stack web application developer from <b>India</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 ***
+# About me
+ 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: mauryahimanshu1999@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/mhimanshum/issues)
+
+</p>
+
+<br/>
+<br/>
+<br/>
 
 > [!NOTE]
 > Technologies I Know And I Have Used 👉👉
@@ -170,20 +203,45 @@ You can ask me about modern web technology.
  > ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
  > ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
  > ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
- [> ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hmaurya1999)
-[> ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.himanshu.in)
-[> ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-maurya-59663020b/)
-[> ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/hmaurya_1999)
-[> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mauryahimanshu1999@gmail.com)  
-[> ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/917499986369)
+ [ ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hmaurya1999)
+ > [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.himanshu.in)
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-maurya-59663020b/)
+> [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/hmaurya_1999)
+> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mauryahimanshu1999@gmail.com)  
+> [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/917499986369)
 
   *** 
 # 📊 GitHub Stats 👉👉:  
-  
-> ![](https://github-readme-stats.vercel.app/api?username=mhimanshum&theme=vue&hide_border=false&include_all_commits=true&count_private=true)  
-> ![](https://github-readme-streak-stats.herokuapp.com/?user=mhimanshum&theme=vue&hide_border=false)  
-> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhimanshum&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+> <p align="left">
+  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br/>
+<br/>
 ## 🏆 GitHub Trophies 👉👉
   
 > ![](https://github-profile-trophy.vercel.app/?username=mhimanshum&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
