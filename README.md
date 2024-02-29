@@ -390,4 +390,7 @@
 <br/>
 
 <p align="right" > Created with 🧡 by <a href="https://github.com/mhimanshum/mhimanshum">Himanshu Maurya</a></p>
+
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+
 </div>
