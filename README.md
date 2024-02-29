@@ -36,13 +36,7 @@
  # About me
  
 <p>
- <img align="" width="350" src="/programmer.gif" alt="Coding gif" />
-  <br/>
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: mauryahimanshu1999@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/mhimanshum/mhimanshum/issues)
-
+ <img align="" width="250" src="/programmer.gif" alt="Coding gif" />
 </p>
 
 <br/>
