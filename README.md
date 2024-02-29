@@ -36,8 +36,8 @@
  # About me
  
 <p>
- <img align="right" width="" src="/programmer.gif" alt="Coding gif" />
-  
+ <img align="" width="350" src="/programmer.gif" alt="Coding gif" />
+  <br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: mauryahimanshu1999@gmail.com<br/><br/>
