@@ -1,6 +1,9 @@
+
 <div align="center">
 <a href="https://komarev.com/ghpvc/?username=mhimanshum">
-  <img align="center" src="https://komarev.com/ghpvc/?username=mhimanshum&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  
+  [![](https://visitcount.itsvg.in/api?id=mhimanshum&label=Profile%20Views&color=5&pretty=true)](https://visitcount.itsvg.in)
+  
 </a>
 </div>
   
