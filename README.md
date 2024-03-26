@@ -36,7 +36,9 @@
     <br>
   </samp>
 </p>
+<p align="center">
 <a href="https://app.daily.dev/mhimanshum"><img src="https://api.daily.dev/devcards/v2/SUCCWMqEtJqzBUlLZUoTT.png?r=eu2" width="356" alt="HIMANSHU MAURYA's Dev Card"/></a>
+</p>
 
 <!-- About Section -->
  # About me
